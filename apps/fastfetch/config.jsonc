@@ -96,12 +96,20 @@
 		{
 			"type": "disk",
 			"key": "│ ├",
-			"keyColor": "yellow"
+			"keyColor": "yellow",
+			"percent": {
+				"green": 60,
+				"yellow": 85
+			}
 		},
 		{
 			"type": "memory",
 			"key": "│ ├",
-			"keyColor": "yellow"
+			"keyColor": "yellow",
+			"percent": {
+				"green": 40,
+				"yellow": 80
+			}
 		},
 		{
             "type": "custom",
